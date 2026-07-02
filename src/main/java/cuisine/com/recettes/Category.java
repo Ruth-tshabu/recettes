@@ -1,5 +1,4 @@
 package cuisine.com.recettes;
-
 import lombok.Data;
 
 @Data
